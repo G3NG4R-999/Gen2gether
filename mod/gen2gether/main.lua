@@ -1,3 +1,3 @@
 return function(mod)
-    print("[Gen2gether] Loaded!")
+    mod.log:info("Gen2gether loaded!")
 end
