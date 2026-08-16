@@ -1,12 +1,7 @@
 {
   "id": "gen2gether",
   "name": "Gen2gether",
-  "version": "0.0.1",
-  "author": "G3NG4R-999",
-  "description": "A little homemade multiplayer project for Gen2Recomped. Gengar-approved. 👻",
+  "version": "0.1.0",
   "entry": "main.lua",
-  "permissions": [
-    "engine_internals",
-    "network"
-  ]
+  "api": 2
 }
